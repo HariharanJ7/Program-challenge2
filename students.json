@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+        "studentID":1,
+        "studentName":"Student1",
+        "subject1":100,
+        "subject2":98,
+        "subject3":76,
+        "subject4":82,
+        "subject5":92
+	},
+    {
+		"id": 2,
+        "studentID":2,
+        "studentName":"Student2",
+        "subject1":92,
+        "subject2":100,
+        "subject3":98,
+        "subject4":76,
+        "subject5":82
+	},
+    {
+		"id": 3,
+        "studentID":3,
+        "studentName":"Student3",
+        "subject1":76,
+        "subject2":92,
+        "subject3":100,
+        "subject4":98,
+        "subject5":76
+	},
+    {
+		"id": 4,
+        "studentID":4,
+        "studentName":"Student4",
+        "subject1":86,
+        "subject2":72,
+        "subject3":92,
+        "subject4":100,
+        "subject5":98
+	}
+]
